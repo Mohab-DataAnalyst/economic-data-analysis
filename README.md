@@ -42,7 +42,21 @@ Using **Python, pandas, matplotlib, and plotly**, this project explores economic
 - **Pandas** – For data cleaning & transformation
 - **Matplotlib & Seaborn** – For visualization
 
-## 📎 Acknowledgments
+## 🚀 How to Run the Project
+1️⃣ **Clone this repository**:
+
+    git clone https://github.com/Mohab-DataAnalyst/economic-data-analysis.git
+    cd economic-data-analysis
+
+2️⃣ **Install dependencies**:
+
+    pip install pandas numpy matplotlib seaborn fredapi
+
+3️⃣ **Run the script**:
+
+    python "Economic Data Analysis via Fred API.py"
+
+## 📎 Acknowledgements
 - This project was inspired by [@Rob Mulla.](https://youtu.be/KB2CtEDrglY?si=tUicFLHChz7cj1Vo)
 - API: [@FredAPI](https://fred.stlouisfed.org/docs/api/fred/)
 
