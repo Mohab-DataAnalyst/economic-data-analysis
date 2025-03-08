@@ -50,7 +50,7 @@ Using **Python, pandas, matplotlib, and plotly**, this project explores economic
 
 2️⃣ **Install dependencies**:
 
-    pip install pandas numpy matplotlib seaborn fredapi
+    pip install pandas numpy matplotlib seaborn fredapi plotly
 
 3️⃣ **Run the script**:
 
